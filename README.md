@@ -24,9 +24,9 @@ CSS3 – Styling, responsive layout, animations, dark/light theme
 
 JavaScript (ES6) – DOM manipulation, event handling, localStorage
 
-📷 Demo Screenshot
+📷 Demo Screenshot 
 
-(Add a screenshot of your app here)
+![App Screenshot](screenshot.png)
 
 💡 How to Use
 
